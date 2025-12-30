@@ -1,0 +1,11 @@
+
+{
+  "version": "3.0.2",
+  "releaseDate": "2024-12-05",
+  "critical": true,
+  "changelog": [
+    "Improved AI latency",
+    "Added 5 new Ultra voices",
+    "Stability fixes for Windows 11"
+  ]
+}
